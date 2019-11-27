@@ -1,0 +1,55 @@
+Manifest-Version: 1.0
+Built-By: neilk
+Build-Jdk: 13.0.1
+Class-Path: lib/activation-1.1.1.jar lib/dropwizard-core-1.3.16.jar lib/
+ dropwizard-util-1.3.16.jar lib/jackson-annotations-2.9.10.jar lib/guava
+ -24.1.1-jre.jar lib/checker-compat-qual-2.0.0.jar lib/j2objc-annotation
+ s-1.1.jar lib/animal-sniffer-annotations-1.14.jar lib/jsr305-3.0.2.jar 
+ lib/joda-time-2.10.1.jar lib/dropwizard-jackson-1.3.16.jar lib/jackson-
+ core-2.9.10.jar lib/jackson-databind-2.9.10.1.jar lib/jackson-datatype-
+ guava-2.9.10.jar lib/jackson-datatype-jsr310-2.9.10.jar lib/jackson-dat
+ atype-jdk8-2.9.10.jar lib/jackson-module-parameter-names-2.9.10.jar lib
+ /jackson-module-afterburner-2.9.10.jar lib/jackson-datatype-joda-2.9.10
+ .jar lib/slf4j-api-1.7.26.jar lib/dropwizard-validation-1.3.16.jar lib/
+ hibernate-validator-5.4.3.Final.jar lib/validation-api-1.1.0.Final.jar 
+ lib/jboss-logging-3.3.0.Final.jar lib/classmate-1.3.1.jar lib/javax.el-
+ 3.0.0.jar lib/javassist-3.24.1-GA.jar lib/dropwizard-configuration-1.3.
+ 16.jar lib/jackson-dataformat-yaml-2.9.10.jar lib/snakeyaml-1.23.jar li
+ b/commons-lang3-3.8.1.jar lib/commons-text-1.2.jar lib/dropwizard-loggi
+ ng-1.3.16.jar lib/metrics-logback-4.0.5.jar lib/jul-to-slf4j-1.7.26.jar
+  lib/logback-core-1.2.3.jar lib/logback-classic-1.2.3.jar lib/log4j-ove
+ r-slf4j-1.7.26.jar lib/jcl-over-slf4j-1.7.26.jar lib/jetty-util-9.4.18.
+ v20190429.jar lib/dropwizard-metrics-1.3.16.jar lib/dropwizard-jersey-1
+ .3.16.jar lib/jersey-server-2.25.1.jar lib/jersey-common-2.25.1.jar lib
+ /jersey-guava-2.25.1.jar lib/osgi-resource-locator-1.0.1.jar lib/jersey
+ -client-2.25.1.jar lib/javax.ws.rs-api-2.0.1.jar lib/jersey-media-jaxb-
+ 2.25.1.jar lib/hk2-api-2.5.0-b32.jar lib/hk2-utils-2.5.0-b32.jar lib/ao
+ palliance-repackaged-2.5.0-b32.jar lib/javax.inject-2.5.0-b32.jar lib/h
+ k2-locator-2.5.0-b32.jar lib/jersey-metainf-services-2.25.1.jar lib/jer
+ sey-bean-validation-2.25.1.jar lib/metrics-jersey2-4.0.5.jar lib/jackso
+ n-jaxrs-json-provider-2.9.10.jar lib/jackson-jaxrs-base-2.9.10.jar lib/
+ jackson-module-jaxb-annotations-2.9.10.jar lib/jersey-container-servlet
+ -2.25.1.jar lib/jersey-container-servlet-core-2.25.1.jar lib/jetty-serv
+ er-9.4.18.v20190429.jar lib/javax.servlet-api-3.1.0.jar lib/jetty-io-9.
+ 4.18.v20190429.jar lib/jetty-webapp-9.4.18.v20190429.jar lib/jetty-xml-
+ 9.4.18.v20190429.jar lib/jetty-continuation-9.4.18.v20190429.jar lib/dr
+ opwizard-servlets-1.3.16.jar lib/metrics-annotation-4.0.5.jar lib/dropw
+ izard-jetty-1.3.16.jar lib/metrics-jetty9-4.0.5.jar lib/jetty-servlet-9
+ .4.18.v20190429.jar lib/jetty-security-9.4.18.v20190429.jar lib/jetty-s
+ ervlets-9.4.18.v20190429.jar lib/jetty-http-9.4.18.v20190429.jar lib/dr
+ opwizard-lifecycle-1.3.16.jar lib/metrics-core-4.0.5.jar lib/metrics-jv
+ m-4.0.5.jar lib/metrics-jmx-4.0.5.jar lib/metrics-servlets-4.0.5.jar li
+ b/metrics-json-4.0.5.jar lib/profiler-1.0.2.jar lib/metrics-healthcheck
+ s-4.0.5.jar lib/dropwizard-request-logging-1.3.16.jar lib/logback-acces
+ s-1.2.3.jar lib/argparse4j-0.8.1.jar lib/jetty-setuid-java-1.0.3.jar li
+ b/gRPC-0.0.1-SNAPSHOT.jar lib/javax.annotation-api-1.3.2.jar lib/grpc-n
+ etty-shaded-1.23.0.jar lib/grpc-core-1.23.0.jar lib/gson-2.7.jar lib/an
+ notations-4.1.1.4.jar lib/perfmark-api-0.17.0.jar lib/opencensus-api-0.
+ 21.0.jar lib/opencensus-contrib-grpc-metrics-0.21.0.jar lib/grpc-protob
+ uf-1.23.0.jar lib/grpc-api-1.23.0.jar lib/grpc-context-1.23.0.jar lib/e
+ rror_prone_annotations-2.3.2.jar lib/protobuf-java-3.9.0.jar lib/proto-
+ google-common-protos-1.12.0.jar lib/grpc-protobuf-lite-1.23.0.jar lib/g
+ rpc-stub-1.23.0.jar lib/jaxb-api-2.3.0.jar lib/jaxb-impl-2.2.5-b10.jar
+Main-Class: com.mypackage.MyClass
+Created-By: Maven Integration for Eclipse
+
