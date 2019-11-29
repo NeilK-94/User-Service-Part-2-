@@ -1,9 +1,6 @@
 package ie.gmit.ds;
 
-import javax.validation.constraints.NotNull;
 import javax.xml.bind.annotation.XmlElement;
-
-import org.hibernate.validator.constraints.NotBlank;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 public class User {

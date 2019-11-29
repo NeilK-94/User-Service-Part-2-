@@ -4,7 +4,6 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import javax.xml.bind.annotation.*;
 
 //	Adapted largely from the removed User class. Will be used to login a user, they only have an id and a password.
-//	Added XML and JSON annotations as per assigment requirement
 
 @XmlRootElement
 public class UserLogin {

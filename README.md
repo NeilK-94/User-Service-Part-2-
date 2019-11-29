@@ -18,3 +18,5 @@ utility methods provided by the gRPC Password Service we developed in Part 1.
 
 This s a link to part 1: https://github.com/NeilK-94/Distributed-Systems-Project
 
+This is a link to the REST API designed using SwaggerHub: https://app.swaggerhub.com/apis/NeilK-94/UserAccountRESTApi/1#/
+
