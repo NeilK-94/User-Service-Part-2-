@@ -17,6 +17,7 @@ Develop a User Account service by implementing our API in Java using the Dropwiz
 utility methods provided by the gRPC Password Service we developed in Part 1.
 
 This s a link to part 1: https://github.com/NeilK-94/Distributed-Systems-Project
+This is a link to part 2: https://github.com/NeilK-94/User-Service-Part-2-
 
 This is a link to the REST API designed using SwaggerHub: https://app.swaggerhub.com/apis/NeilK-94/UserAccountRESTApi/1#/
 
